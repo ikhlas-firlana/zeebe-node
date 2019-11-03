@@ -1,0 +1,22 @@
+{
+  "name": "zeebe-node-poc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhlas-firlana/zeebe-node.git"
+  },
+  "author": "ikhlas firlana <ifirlana@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhlas-firlana/zeebe-node/issues"
+  },
+  "homepage": "https://github.com/ikhlas-firlana/zeebe-node#readme",
+  "dependencies": {
+    "zeebe-node": "^0.21.2"
+  }
+}
